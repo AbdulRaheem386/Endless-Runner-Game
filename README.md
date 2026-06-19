@@ -37,3 +37,7 @@ A fun, fast-paced 3D Endless Runner game developed in Unity using C#. The player
    <img src="Screenshots/7.jpeg" width="45%" alt="Gameplay 7" />
    <img src="Screenshots/8.jpeg" width="45%" alt="Gameplay 8" />
 </p>
+
+---
+
+### [Watch the Gameplay Video on Youtube](https://youtube.com/shorts/MjMaPt7nVPA?si=PkVaeAM-3ADs-Nq6)
